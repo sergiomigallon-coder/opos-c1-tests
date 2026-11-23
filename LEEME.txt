@@ -1,4 +1,4 @@
-OPOS C1 · Administrativo GVA · Versión 3
+OPOS C1 · Administrativo GVA · Versión 4
 
 FUNCIONES
 - Elegir convocatoria.
@@ -6,6 +6,9 @@ FUNCIONES
 - Elegir número de preguntas (de 1 hasta el total de la convocatoria).
 - Hacer tests completos o parciales.
 - Corrección inmediata y explicación personal por pregunta.
+- Copiar el enunciado y las cuatro opciones con un botón.
+- Seleccionar y copiar textos de la aplicación.
+- Editor de explicaciones con formato de negrita y copiar explicación.
 - Identificación de convocatoria y número original.
 - Seguimiento persistente de preguntas realizadas y pendientes.
 - Conserva respuestas elegidas, último resultado y número acumulado de aciertos/fallos por pregunta.
