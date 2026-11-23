@@ -1,0 +1,35 @@
+# Opos C1 · Administrativo GVA
+
+Aplicación web instalable (PWA) para practicar preguntas oficiales de convocatorias C1.
+
+## Contenido incorporado
+- 151/21 (2021): 90 preguntas
+- 7/22 (2022): 90 preguntas
+- 8/22 (2022): 56 preguntas
+- 12/23 (2023): 90 preguntas
+- 27/24 (2024): 90 preguntas
+- 64/25 (2025): 110 preguntas
+
+Las preguntas están en castellano y se han extraído de los PDF aportados. Las respuestas correctas se asocian con las plantillas oficiales incluidas en esos mismos documentos.
+
+## Publicar gratis con GitHub Pages
+1. Entra en https://github.com/ y crea una cuenta o inicia sesión.
+2. Pulsa **New repository**. Pon como nombre `opos-c1-tests`, selecciona **Public** y crea el repositorio.
+3. Descomprime este ZIP en tu ordenador.
+4. Dentro del repositorio, pulsa **Add file → Upload files**. Arrastra todos los archivos y carpetas que contiene esta carpeta (index.html, app.js, styles.css, questions.json, manifest.json, sw.js e iconos). No subas el ZIP dentro del repositorio: sube su contenido.
+5. Pulsa **Commit changes**.
+6. En el repositorio abre **Settings → Pages**. En **Build and deployment**, elige **Deploy from a branch**; selecciona la rama **main** y la carpeta **/(root)**; pulsa **Save**.
+7. Espera a que GitHub Pages publique el sitio. La dirección será similar a `https://TUUSUARIO.github.io/opos-c1-tests/`.
+
+## Instalar en Android
+1. Abre esa dirección con Google Chrome en el teléfono o tableta.
+2. Espera a que cargue la pantalla de inicio y el banco de preguntas.
+3. Abre el menú ⋮ de Chrome y elige **Instalar aplicación** o **Añadir a pantalla de inicio**.
+4. Confirma. Se añadirá el icono **Opos C1**.
+5. Abre la aplicación una vez con conexión. Después podrá funcionar sin conexión.
+
+## Datos y privacidad
+Los resultados se guardan en el almacenamiento local del navegador del dispositivo. No hay cuenta ni sincronización entre dispositivos. No borres los datos del sitio ni desinstales/limpies Chrome si quieres conservar el historial. Para usar también en otro dispositivo, instala la misma web allí; sus estadísticas empezarán separadas.
+
+## Nota de extracción
+Se ha validado el número de preguntas por convocatoria y la presencia de cuatro opciones A-D. Las preguntas y claves se han emparejado por número. El PDF de 2023 contiene duplicado en valenciano; se ha incorporado una sola versión en castellano.
